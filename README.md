@@ -1,4 +1,11 @@
 # Offensive-language-Detection
+
+![GitHub](https://img.shields.io/github/license/souravkatkar/Offensive-language-Detection)
+![GitHub repo size](https://img.shields.io/github/repo-size/souravkatkar/Offensive-language-Detection)
+![GitHub top language](https://img.shields.io/github/languages/top/souravkatkar/Offensive-language-Detection)
+
+
+## Introduction
 Social media can be used to share posts, comments. It is used to keep in touch with friends, family, relatives.
 But at the same time, some people may use offensive language, spread hatred, mock or insult somebody on the basis of race, caste, religion.
 This project aims to identify this comments and predict their toxicity.
